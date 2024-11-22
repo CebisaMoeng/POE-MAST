@@ -12,6 +12,14 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "app/Screen/CourseDetails.js",
+    "app/Add-RemoveScreen.js",
+    "app/CourseDetails.js",
+    "app/calculateAveragePrice.tsx",
+    "app/Login.js",
+    "app/_layout.js",
+    "app/+not-found.js",
+    "app/index.js"
   ]
 }
